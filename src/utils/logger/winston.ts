@@ -20,7 +20,7 @@ const logConfiguration = {
     }),
     new winston.transports.File({
       level: 'error',
-      filename: 'logs/error.log', // Log errors to file
+      //filename: 'logs/error.log', // Log errors to file
     }),
   ],
   format: combine(
