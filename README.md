@@ -47,7 +47,7 @@ cd node-rest-api
    ```
 ### 3. To Seed data:
    ```sh
-   npm run
+   npm run seed
    ```
 
 
